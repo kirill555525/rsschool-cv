@@ -16,4 +16,19 @@
 * HTML; CSS
 * Git; GitHUB
 
+## Code examples
+```function multiply(a, b){
+  return a * b
+}
+```
+
+## Experience
+* CV: https://github.com/kirill555525/rsschool-cv
+
+## Education
+* Higher technical
+* Python courses
+
+## English level
+* B1
 
