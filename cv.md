@@ -23,7 +23,7 @@
 ```
 
 ## Experience
-* CV: https://github.com/kirill555525/rsschool-cv
+* CV: [https://github.com/kirill555525/rsschool-cv](https://github.com/kirill555525/rsschool-cv)
 
 ## Education
 * Higher technical
