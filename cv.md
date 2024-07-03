@@ -1,7 +1,7 @@
 # CV
 
 ## Drushchenko Kirill
-![Avatar](cat.jpg)
+![Avatar](avatar.jpg)
 
 ## Contancts
 [Telegram](https://t.me/kirill555525)
