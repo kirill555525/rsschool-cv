@@ -1,13 +1,13 @@
 # CV
 
 ## Drushchenko Kirill
-![Avatar](img/avatar.jpg)
+![Avatar](assets/img/avatar.jpg)
 
 ## Contancts
 [Telegram](https://t.me/kirill555525)
 **Discord: DKV(@kirill5555525)**
 
-## About me
+## Summary
 *Study at RS School*
 
 ## Skills
@@ -16,13 +16,13 @@
 * HTML; CSS
 * Git; GitHUB
 
-## Code examples
+## Code
 ```function multiply(a, b){
   return a * b
 }
 ```
 
-## Experience
+## Projects
 * CV: [https://github.com/kirill555525/rsschool-cv](https://github.com/kirill555525/rsschool-cv)
 
 ## Education
