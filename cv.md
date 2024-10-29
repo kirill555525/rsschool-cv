@@ -7,7 +7,7 @@
 [Telegram](https://t.me/kirill555525)
 **Discord: DKV(@kirill5555525)**
 
-## Summary
+## About me
 *Study at RS School*
 
 ## Skills
@@ -16,13 +16,13 @@
 * HTML; CSS
 * Git; GitHUB
 
-## Code
+## Code examples
 ```function multiply(a, b){
   return a * b
 }
 ```
 
-## Projects
+## Experience
 * CV: [https://github.com/kirill555525/rsschool-cv](https://github.com/kirill555525/rsschool-cv)
 
 ## Education
