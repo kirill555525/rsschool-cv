@@ -147,3 +147,29 @@ pre {
 code {
     font-family: "Courier New", Courier, monospace;
 }
+
+.site-footer {
+    padding: 24px 0;
+    background: var(--surface);
+    border-top: 1px solid #dbe3ef;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 24px;
+}
+
+.footer-content p {
+    margin: 0;
+}
+
+.rsschool-link {
+    display: inline-block;
+}
+
+.rsschool-link img {
+    width: 100px;
+    height: auto;
+}
