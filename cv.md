@@ -2,7 +2,7 @@
 
 ## Друщенко Кирилл
 
-![Avatar](avatar.jpg)
+![Avatar](avatar.svg)
 
 ## Контакты
 [Telegram](https://t.me/kirill555525)
