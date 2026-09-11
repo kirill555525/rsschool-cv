@@ -11,3 +11,10 @@
 ## О себе
 *Учусь в RS School*
 
+## Навыки
+* Python
+* Markdown
+* HTML
+* CSS
+* Git
+* GitHub Pages
