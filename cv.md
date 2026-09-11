@@ -29,3 +29,6 @@ function multiply(a, b){
 
 ## Опыт
 * CV: https://github.com/kirill555525/rsschool-cv
+
+## Образование
+* Высшее техническое
