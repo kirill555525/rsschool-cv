@@ -26,3 +26,6 @@ function multiply(a, b){
   return a * b
 }
 ```
+
+## Опыт
+* CV: https://github.com/kirill555525/rsschool-cv
