@@ -18,3 +18,11 @@
 * CSS
 * Git
 * GitHub Pages
+
+
+## Пример кода
+```
+function multiply(a, b){
+  return a * b
+}
+```
