@@ -45,3 +45,44 @@ img {
     width: min(100% - 32px, 960px);
     margin-inline: auto;
 }
+
+.site-header {
+    padding: 56px 0 36px;
+    background: var(--surface);
+    border-bottom: 1px solid #dbe3ef;
+}
+
+.header-content {
+    display: grid;
+    grid-template-columns: 180px 1fr;
+    gap: 32px;
+    align-items: center;
+}
+
+.avatar {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.eyebrow {
+    margin: 0 0 8px;
+    color: var(--accent);
+    font-size: 0.95rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+}
+
+h1 {
+    margin: 0 0 12px;
+    font-size: 3rem;
+    line-height: 1.1;
+}
+
+.lead {
+    margin: 0;
+    color: #5b6472;
+    font-size: 1.1rem;
+}
