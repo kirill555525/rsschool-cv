@@ -128,3 +128,22 @@ main {
     margin-top: 0;
     margin-bottom: 16px;
 }
+
+.contact-list,
+.skills-list {
+    margin: 0;
+    padding-left: 22px;
+}
+
+pre {
+    margin: 0;
+    padding: 18px;
+    overflow-x: auto;
+    color: #f9fafb;
+    background: #111827;
+    border-radius: 10px;
+}
+
+code {
+    font-family: "Courier New", Courier, monospace;
+}
