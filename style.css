@@ -86,3 +86,27 @@ h1 {
     color: #5b6472;
     font-size: 1.1rem;
 }
+
+.site-nav {
+    background: var(--surface);
+    border-bottom: 1px solid #dbe3ef;
+}
+
+.nav-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px 20px;
+    margin: 0;
+    padding: 14px 0;
+    list-style: none;
+}
+
+.nav-list a {
+    color: var(--text);
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.nav-list a:hover {
+    color: var(--accent);
+}
